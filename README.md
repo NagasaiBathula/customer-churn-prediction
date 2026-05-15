@@ -140,13 +140,13 @@ customer_churn_pred/
 ## Screenshots
 
 ### Streamlit Web App
-(Add screenshot here)
+![(Add screenshot here)](screenshots/web_app.png)
 
 ### Prediction Output
-(Add screenshot here)
+![(Add screenshot here)](screenshots/prediction_result.png)
 
 ### Feature Importance Graph
-(Add screenshot here)
+![(Add screenshot here)](screenshots/feature_imp_graph.png)
 
 ---
 
@@ -156,3 +156,52 @@ customer_churn_pred/
 
 ```bash
 git clone https://github.com/Nagasai-197/customer-churn-prediction.git
+````
+
+### Move Into Project Folder
+
+```bash
+cd customer-churn-prediction
+```
+
+### Install Dependencies
+
+```bash
+pip install -r requirements.txt
+```
+
+### Run Streamlit App
+
+```bash
+streamlit run app/app.py
+```
+
+---
+
+## Future Improvements
+
+* Hyperparameter tuning
+* XGBoost implementation
+* Docker deployment
+* Cloud deployment
+* Better UI design
+* User authentication
+* Database integration
+
+---
+
+## Deployment
+
+Streamlit Cloud Deployment:
+(Add deployed app link here)
+
+---
+
+## Author
+
+Naga Sai
+
+GitHub:
+[https://github.com/Nagasai-197](https://github.com/Nagasai-197)
+
+
