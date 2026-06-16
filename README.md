@@ -202,6 +202,6 @@ Streamlit Cloud Deployment:
 Naga Sai
 
 GitHub:
-[https://github.com/Nagasai-197](https://github.com/Nagasai-197)
+[https://github.com/Nagasai-197](https://github.com/NagasaiBathula)
 
 
