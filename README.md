@@ -203,5 +203,7 @@ Naga Sai
 
 GitHub:
 [https://github.com/Nagasai-197](https://github.com/NagasaiBathula)
+Deploy:
+https://smart-customer-churn-predictor.streamlit.app/
 
 
