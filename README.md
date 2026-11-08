@@ -193,17 +193,10 @@ streamlit run app/app.py
 ## Deployment
 
 Streamlit Cloud Deployment:
-(Add deployed app link here)
+(https://smart-customer-churn-predictor.streamlit.app/)
 
 ---
 
-## Author
 
-Naga Sai
-
-GitHub:
-[https://github.com/Nagasai-197](https://github.com/NagasaiBathula)
-Deploy:
-https://smart-customer-churn-predictor.streamlit.app/
 
 
